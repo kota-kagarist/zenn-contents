@@ -3,7 +3,7 @@ title: "Kagaristで作ったものを、ここに残していきます"
 emoji: "🔥"
 type: "idea"
 topics: ["個人開発", "llm", "生成ai"]
-published: false
+published: true
 ---
 
 Kagaristという名前で、会社員をしながら個人開発をしています。
