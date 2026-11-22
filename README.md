@@ -12,7 +12,9 @@ Zennの記事をGitHubで管理するためのコンテンツリポジトリで�
 
 ## 現在の下書き
 
-- `articles/codex-japanese-renderer.md` — Codexで意味を確定し、Geminiに日本語の表面だけ整えさせるRendererの設計と実測
+記事ごとの編集判断とレビューの残件は[編集中のプルリクエスト](https://github.com/kota-kagarist/zenn-contents/pulls)で確認できます。作業を引き継ぐときは、対象記事のプルリクエストに、採用した修正と次に確認する箇所を残します。
+
+- [CodexとGeminiを使った日本語編集の下書き](articles/codex-japanese-renderer.md) — Codexで意味を確定し、Geminiに日本語の表面だけ整えさせるRendererの設計と実測
 
 ## プレビュー
 
